@@ -17,7 +17,7 @@
 ## 🚀 Keahlian Saya
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,c" />
   </a>
 </p>
 
