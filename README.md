@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning ReactJS <br>🎯 Goals: Fullstack Developer or Machine Learning <br>🎲 Fun fact: I can learn many languages in one month.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python <br>🎯 Goals: Fullstack Developer or Machine Learning</p>
 
 ###
 
